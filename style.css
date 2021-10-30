@@ -1,0 +1,31 @@
+body{
+    background-size: cover;
+}
+.heading{
+    font-size:25px;
+    width: max-content;
+    margin: 0px;
+}
+#st,#nood,#sd
+{
+font-size: 30px;
+}
+.crf{
+    font-size:25px;
+    width: 100%;
+    bottom: 0;
+    position: fixed;
+    line-height: 2px;
+    text-align: center;
+    color: rgb(44, 122, 124);
+    background-color:#ca3434 ;
+}
+
+canvas
+{
+     border: 2px dotted rgb(255, 251, 0);
+     border-radius: 20px;
+     box-shadow:10px 10px 5px#8b1616 ;
+     margin-top: 150px;
+
+}
